@@ -157,9 +157,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
@@ -175,8 +172,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to open an issue or contact me directly.
+If you have any questions or suggestions, please feel free to open an issue or contact me directly.(E-mail:jammmm2005@163.com)
 
----
-
-Star this repository if you find it helpful!
